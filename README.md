@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Semendotech 👋
 
-<!--
-**Semendotech/Semendotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Website & Management Systems Developer
 
-Here are some ideas to get you started:
+I build practical, scalable digital solutions that help businesses manage operations, automate processes, and grow online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I am a developer focused on building real-world systems that solve business problems through technology.
+
+- Founder of **Infinite Digital Solutions KE**
+- Website & Systems Developer
+- Focused on end-to-end web systems (frontend, backend & database integration)
+- Passionate about building tools that simplify business operations
+
+---
+
+## 🧠 Core Skills
+
+### Frontend
+- HTML, CSS, JavaScript
+
+### Backend
+- Python
+- Java
+- API development
+- System logic
+
+### Database
+- MySQL
+- PostgreSQL
+- Database design & integration
+
+---
+
+## 📌 What I Build
+- Business Websites
+- Management Systems (Sales, Clients, Inventory, etc.)
+- Web Applications
+- Digital Business Tools
+
+---
+
+## 📫 Contact
+- Location: Nairobi, Kenya
+- Company: Infinite Digital Solutions KE
+- Email: semendotitus@gmail.com
+
+---
+
+> “Building systems that make business simple.”
